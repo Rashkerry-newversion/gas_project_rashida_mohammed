@@ -1,0 +1,14 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Canary comparison (placeholder)",
+    "panels": [
+      {
+        "type": "graph",
+        "title": "app_work_requests_total",
+        "targets": []
+      }
+    ]
+  },
+  "overwrite": false
+}

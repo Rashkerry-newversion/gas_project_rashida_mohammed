@@ -1,0 +1,11 @@
+name: Rollback
+on:
+  workflow_dispatch:
+
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rollback Placeholder
+        run: |
+          echo "Placeholder for rollback logic: swap slots, redeploy previous image tag, or reduce canary traffic."

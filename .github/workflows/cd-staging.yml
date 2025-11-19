@@ -1,0 +1,11 @@
+name: CD - Staging
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy-staging:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Staging Deployment Placeholder
+        run: |
+          echo "Placeholder: add authentication and deployment steps to push to staging (Azure/GCP/ECS)."

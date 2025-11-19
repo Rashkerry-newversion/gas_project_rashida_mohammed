@@ -1,0 +1,11 @@
+name: CD - Production
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy-prod:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Production Deployment Placeholder
+        run: |
+          echo "Placeholder: add safe approvals, manual gates, and production deployment steps."
