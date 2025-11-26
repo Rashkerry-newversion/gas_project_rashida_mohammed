@@ -326,6 +326,8 @@ Data source URL should match Prometheus container, e.g.:
 
 ![Data Source is working](images/image21.png)
 
+![Grafana Dashboard](images/image14.png)
+
 ## 8) Blue-Green swap (simulate) optional
 
 - Option A: Set `CANARY_PERCENT=100` so all traffic goes to green (canary promoted)
