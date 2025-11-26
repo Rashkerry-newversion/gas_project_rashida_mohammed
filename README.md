@@ -58,9 +58,6 @@ Visit:
 
 - [http://localhost:3000/health](http://localhost:3000/health)
 - [http://localhost:3000/metrics](http://localhost:3000/metrics)
-- CRUD: [http://localhost:3000/api/items](http://localhost:3000/api/items)
-
-![App CRUD](images/image4.png)
 
 ### Monitoring & Health
 
